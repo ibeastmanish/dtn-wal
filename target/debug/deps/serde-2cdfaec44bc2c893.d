@@ -1,0 +1,14 @@
+/Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/deps/serde-2cdfaec44bc2c893.d: /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/build/serde-1e9038675204c215/out/private.rs
+
+/Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/deps/libserde-2cdfaec44bc2c893.rlib: /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/build/serde-1e9038675204c215/out/private.rs
+
+/Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/deps/libserde-2cdfaec44bc2c893.rmeta: /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/build/serde-1e9038675204c215/out/private.rs
+
+/Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/Users/manishtula/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/build/serde-1e9038675204c215/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/manishtula/.gemini/antigravity/scratch/dtn-wal/target/debug/build/serde-1e9038675204c215/out
